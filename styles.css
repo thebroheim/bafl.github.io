@@ -13,6 +13,10 @@ html {
 	
 }
 
+td {
+	color: white;
+}
+
 body {
 	margin:auto;
 }
